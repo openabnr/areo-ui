@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{C as t,f as n,v as r,x as i}from"./useBaseUiId-DUnnasIz.js";function a(e){return e==null?i:e.type.startsWith(`key`)?r:e.type.startsWith(`mouse`)||e.type.startsWith(`pointer`)?t:i}function o(){return(o=e((()=>{n()})))()}export{o as n,a as t};
