@@ -1,1 +1,0 @@
-import{a as e,n as t}from"./rolldown-runtime-DkW27tQK.js";import{b as n}from"./iframe-BMcTjw50.js";function r(e,t=-(2**53-1),n=2**53-1){return Math.max(t,Math.min(e,n))}function i(){return(i=t((()=>{})))()}function a(){return o.useContext(s)??c}var o,s,c;function l(){return(l=t((()=>{o=e(n(),1),s=o.createContext(void 0),c={disableStyleElements:!1}})))()}export{i,a as n,r,l as t};
