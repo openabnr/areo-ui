@@ -1,0 +1,1 @@
+import{t as e}from"./iframe-Df_aBerc.js";e();
