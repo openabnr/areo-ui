@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{b as t}from"./iframe-CA5FfF6H.js";function n({children:e,timeout:t=i}){let[n,a]=(0,r.useState)(!1),o=t<=0||n;return(0,r.useEffect)(()=>{if(o)return;let e=setTimeout(()=>{a(!0)},t);return()=>{clearTimeout(e)}},[o,t]),o?e??null:null}var r,i;function a(){return(a=e((()=>{r=t(),i=300})))()}export{a as n,n as t};
